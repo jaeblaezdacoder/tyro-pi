@@ -9,3 +9,4 @@
 4. Navigate to the 64bit-lite image in *Pi-Images* folder and select to make boot disk from microSD card
 5. Eject microSD card and reinsert to make an .ssh file
 6. CD into your *Boot* disk from the terminal and enter this command: 'touch ssh' (sudo may be required)
+7. Eject the microSD once again and insert into to microSD slot on your raspberry pi and power it up
