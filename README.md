@@ -12,3 +12,5 @@
 7. Eject microSD card and reinsert to make an *.ssh* file
 8. CD into your *Boot* disk from the terminal and enter this command: 'touch ssh' (sudo may be required)
 9. Eject the microSD card once again and insert it into to microSD slot on your raspberry pi and power it up
+---
+## Connecting To Your Pi
