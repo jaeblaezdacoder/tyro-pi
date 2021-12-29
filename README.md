@@ -1,10 +1,10 @@
 # tyro-pi
 ...is my repository for Raspberry Pi beginners. This is just a basic *Getting Started* repo for some of the most common tasks in one place.
 ---
-1. Download Pi Imager --> [Official Raspberry-Pi Imager](https://www.raspberrypi.com/software/)
+1. Download Pi Imager --> :link:[Official Raspberry-Pi Imager](https://www.raspberrypi.com/software/)
 2. Insert microSD card into card slot on your computer. (I recommend 64GB microSD card at minimum)
 - For this setup, we will be installing a 64-bit version of the PI OS manually.
-- I have included the link to the [raspios_lite_arm64](https://downloads.raspberrypi.org/raspios_lite_arm64/images/raspios_lite_arm64-2021-11-08/) Pi OS image file for download. (Choose the file that has the single .zip extension)
+- I have included the link to the :link:[raspios_lite_arm64](https://downloads.raspberrypi.org/raspios_lite_arm64/images/raspios_lite_arm64-2021-11-08/) Pi OS image file for download. (Choose the file that has the single .zip extension)
 3. *Use Custom* from the *OS Select* tab on the imager
 4. Navigate to the *2021-10-30-raspios-bullseye-arm64-lite.img* that you downloaded and select it
 5. Choose your microSD card from the *Storage Locations* tab
