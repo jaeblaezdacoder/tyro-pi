@@ -14,3 +14,6 @@
 9. Eject the microSD card once again and insert it into to microSD slot on your raspberry pi and power it up
 ---
 ## Connecting To Your Pi
+
+Once you have the microSD installed and the power is on, you will need to know what the ip adress of your raspberry pi is:
+Once you know it, open up a terminal and type ```ssh pi@xxx.xxx.xxx.xxx``` to log in to your pi remotely
